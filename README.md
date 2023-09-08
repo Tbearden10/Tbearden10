@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tbearden10
 - 👀 I’m interested in ... Skiing, Legos, Space, and Computers
-- 🌱 I’m currently learning ... C++ 
-- 💞️ I’m looking to collaborate on ... Nothing at the moment but I would love to start a project if possible.
+- 🌱 I’m currently learning ... C++, Python, and Linux 
+- 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... tbearden@mines.edu
 
 <!---
