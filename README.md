@@ -19,4 +19,4 @@ Hi, I’m Tanner<br>I’m interested in ... Skiing, Legos, Space, and Computers<
 ---
 [![](https://visitcount.itsvg.in/api?id=Tbearden10&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
