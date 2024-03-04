@@ -16,6 +16,3 @@ Hi, I’m Tanner<br>I’m interested in ... Skiing, Legos, Space, and Computers<
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Tbearden10&icon=2&color=4)](https://visitcount.itsvg.in)
-
