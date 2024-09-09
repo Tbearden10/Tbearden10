@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a computer vision project to auto-redact certain text on screen for streaming<br>👯 I’m looking to collaborate on ... anything!<br>🌱 I’m currently learning R, Graph Theory, and Data Science frameworks<br>💬 Ask me about what I am working on!
+🔭 I’m currently working on my homework most likely...<br>👯 I’m looking to collaborate on ... anything!<br>🌱 I’m currently learning R, Graph Theory, and Data Science frameworks<br>💬 Ask me about what I am working on!
 
 
 ## 🌐 Socials:
