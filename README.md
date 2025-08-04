@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a web app to visualize player stats for dungeons from the hit game Destiny 2. <br>👯 I’m looking to collaborate on ... anything!<br>🌱 I’m currently learning R, Graph Theory, and Data Science frameworks<br>💬 Ask me about what I am working on!
-
+🔭 I am a senior at Colorado School of Mines. I have a passion for creating things of all types. I am currently focused on creating web apps to get exposed into the world of web dev.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/beardent) 
