@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my homework...<br>👯 I’m looking to collaborate on ... anything!<br>🌱 I’m currently learning R, Graph Theory, and Data Science frameworks<br>💬 Ask me about what I am working on!
+🔭 I’m currently working on a web app to visualize player stats for dungeons from the hit game Destiny 2. <br>👯 I’m looking to collaborate on ... anything!<br>🌱 I’m currently learning R, Graph Theory, and Data Science frameworks<br>💬 Ask me about what I am working on!
 
 
 ## 🌐 Socials:
