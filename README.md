@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a senior at Colorado School of Mines. I have a passion for creating things of all types. I am currently focused on creating web apps to get exposed into the world of web dev. Aspiring Systems Engineer
+🔭 I am a senior at Colorado School of Mines. I have a passion for creating things of all types. I am currently focused on creating web apps to get exposed into the world of web dev.
 
 # 💻 Current Projects:
  * Dungeon Info Hub: Central hub for all things dungeon related including user stats
