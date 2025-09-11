@@ -2,8 +2,6 @@
 🔭 I am a senior at Colorado School of Mines. I have a passion for creating things of all types. I am currently focused on creating web apps to get exposed into the world of web dev.
 
 # 💻 Current Projects:
- * Dungeon Info Hub: Central hub for all things dungeon related including user stats
- * D2 Api Timer: Activity timer accurate to the Bungie API used to track times.
  * Personal Portfolio Site: Site to display all projects and web dev skills in one central place. Contains a virtual terminal and file system for navigation 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/beardent) 
