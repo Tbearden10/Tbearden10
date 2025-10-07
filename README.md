@@ -2,7 +2,7 @@
 🔭 I am a senior at Colorado School of Mines. I have a passion for creating things of all types. I am currently focused on creating web apps to get exposed into the world of web dev.
 
 # 💻 Current Projects:
- * Personal Portfolio Site: Site to display all projects and web dev skills in one central place. Contains a virtual terminal and file system for navigation 
+ * Personal Portfolio Site: Site to display all projects and web dev skills in one central place.
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/beardent) 
 
