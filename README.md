@@ -3,6 +3,7 @@
 
 # 💻 Current Projects:
  * Personal Portfolio Site: Site to display all projects and web dev skills in one central place.
+ * sparOS (Single Page Activity Report OS): Destiny 2 activity stats on a single page. no routes. no bs
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/beardent) 
 
