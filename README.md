@@ -1,12 +1,3 @@
-# 💫 About Me:
-🔭 I am a senior at Colorado School of Mines. I have a passion for creating things of all types. I am currently focused on creating web apps to get exposed into the world of web dev.
-
-# 💻 Current Projects:
- * Personal Portfolio Site: Site to display all projects and web dev skills in one central place.
- * sparOS (Single Page Activity Report OS): Destiny 2 activity stats on a single page. no routes. no bs
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/beardent) 
-
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
